@@ -1,0 +1,6 @@
+CREATE PROCEDURE selectGenres
+AS 
+BEGIN 
+	SELECT * FROM Zanr
+END
+GO
